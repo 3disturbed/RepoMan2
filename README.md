@@ -81,7 +81,7 @@ Follow these steps to set up RepoMan2 on a Linux machine. This guide will walk y
 
 Clone the repository to your local machine using the following command:
 ```sh
- git clone https://github.com/3disturbed/RepoMan_ES6.git
+ git clone https://github.com/3disturbed/RepoMan2.git
 ```
 
 Navigate to the project directory:
@@ -192,7 +192,7 @@ Follow these steps to set up RepoMan2 on a Windows machine. This guide will walk
 
 Clone the repository to your local machine using the following command in Command Prompt:
 ```cmd
- git clone https://github.com/3disturbed/RepoMan_ES6.git
+ git clone https://github.com/3disturbed/RepoMan2.git
 ```
 
 Navigate to the project directory:
