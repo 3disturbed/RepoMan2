@@ -1,7 +1,9 @@
-# Meet the Repo Man... 
-## Your new buddy that keeps your Remote NodeJS ES6 Deployment upto date with your repo!
+# Meet the Repo Man...  Your new buddy!
 ![image](https://github.com/user-attachments/assets/6bc098e7-065d-4e23-9137-e57bf7ac18e4)
+## He keeps your Remote NodeJS ES6 Deployment upto date with your repo!
+## Introduction
 
+RepoMan2 is a Node.js-based service designed to help developers and teams maintain their applications seamlessly. It monitors a specified GitHub repository for changes and automatically updates the local version of the application when changes are detected. RepoMan2 takes care of creating backups of existing files, updating the service, and ensuring stability by monitoring for errors and crashes.
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -25,11 +27,8 @@
 6. [Getting in Touch](#getting-in-touch)
 7. [License](#license)
 
-## Introduction
 
-RepoMan2 is a Node.js-based service designed to help developers and teams maintain their applications seamlessly. It monitors a specified GitHub repository for changes and automatically updates the local version of the application when changes are detected. RepoMan2 takes care of creating backups of existing files, updating the service, and ensuring stability by monitoring for errors and crashes.
 
-[Back to Table of Contents](#table-of-contents)
 
 ## Key Features
 
